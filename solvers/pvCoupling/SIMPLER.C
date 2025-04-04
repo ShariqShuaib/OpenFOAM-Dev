@@ -28,7 +28,7 @@ Application
 
 Description
     We implement a simple implementation of the std SIMPLER algoritm as presented
-    in Malashk.
+    in "Versteeg, H.K. and Malalasekera, W. (2007) An Introduction to Computational Fluid Dynamics".
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"

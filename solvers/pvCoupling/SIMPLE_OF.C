@@ -27,7 +27,8 @@ Application
     SIMPLE_OF
 
 Description
-    We implement a simple implementation of SIMPLE algoritm this is OF implem
+    We implement a simple implementation of the SIMPLE algoritm, to the passive steady
+    incomp scalar transport equation; This is the how the SIMPLE algo is implemented in OpenFOAM
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"

@@ -28,7 +28,7 @@ Application
 
 Description
     We implement a simple implementation of the std SIMPLE algoritm present in 
-    V&Mala also taught during MSc UOM.
+    in "Versteeg, H.K. and Malalasekera, W. (2007) An Introduction to Computational Fluid Dynamics"..
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"
