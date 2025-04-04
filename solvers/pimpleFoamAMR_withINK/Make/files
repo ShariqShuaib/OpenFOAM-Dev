@@ -1,0 +1,3 @@
+pimpleFoamAMR-ext.C
+
+EXE = $(FOAM_APPBIN)/pimpleFoamAMR-ext
